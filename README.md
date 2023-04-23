@@ -2,6 +2,7 @@
 
 from
 https://github.com/Klipper3d/klipper
+
 https://github.com/Howchoo/random-bits/blob/master/creality-ender-3-v2/ender-3-v2.curaprofile
 
 Note: these are not HOW TO steps for setting up Klipper, only working files from my config and some reference info.
