@@ -4,7 +4,8 @@ From:
 
 https://github.com/Klipper3d/klipper
 
-https://github.com/Klipper3d/klipper/blob/master/config/printer-creality-ender3-2018.cfgofile
+https://github.com/Klipper3d/klipper/blob/master/config/printer-creality-ender3-2018.cfg
+
 
 Note: these are not HOW TO steps for setting up Klipper, only working files from my config and some reference info.
 
