@@ -18,3 +18,4 @@ This file is for the SD card to flash to the printer (turn printer off, unplug n
 Isues:
 STILL GETTING OUT OF RANGE ERROR AT END OF PRINT:
 Move out of range: 0.000 235.000 20.120 [542.884]
+RESOLVED: In Cura (slicer), Settings, Printer, Manage, Machine Settings, update X and Y from default 235 to 220 (actual printable area)
