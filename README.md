@@ -7,12 +7,10 @@ https://github.com/Klipper3d/klipper
 https://github.com/Klipper3d/klipper/blob/master/config/printer-creality-ender3-2018.cfg
 
 
-Note: these are not HOW TO steps for setting up Klipper, only working files from my config and some reference info.
+NOTE : These are not HOW TO steps for setting up Klipper, only working files from my config, and some reference info.
 
-printer.cfg
-I am making this file available as I am setting up my first Klipper printer, as finding a good working printer.cfg file is proving not that easy.
+printer.cfg : I am making this file available as I am setting up my first Klipper printer, as finding a good working printer.cfg file is proving rather dificult.
 
-klipper.bin 
-This file is for the SD card to flash to the printer (turn printer off, unplug native display, unplug usb cable, insert SD card, turn on, wait a few seconds, connect usb cable from your pi running Klipper Mainsail OS)
+klipper.bin :  I compiled this bin file for my printer and it works for me; it may work for you. Download and copy the klipper.bin file to your micro sd card, turn printer off, unplug native display, unplug usb cable, insert SD card, turn printer on, wait a few seconds for the printer to flash, connect usb cable from your pi running Klipper Mainsail OS.
 
-ISSUE, Move out of range: 0.000 235.000 : In Cura (slicer), Settings, Printer, Manage, Machine Settings, update X and Y from default 235 to 220 (actual printable area)
+ISSUE Move out of range 0.000 235.000 (solved): In Cura (slicer), Settings, Printer, Manage, Machine Settings, update X and Y from default 235 to 220 (actual printable area).
